@@ -1,8 +1,8 @@
 {
-    "name": "Calculator",
-    "short_name": "Calculator",
-    "description": "Einfacher, aber hübsch designter Taschenrechner.",
-    "lang": "de",
+    "name": "HalfCalc",
+    "short_name": "HC",
+    "description": "An Easy Calculator.",
+    "lang": "en",
     "start_url": "./index.html",
     "scope": "./",
     "display": "standalone",
